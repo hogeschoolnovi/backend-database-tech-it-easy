@@ -1,5 +1,5 @@
 ## Inleiding
-In de les hebben we het gehad over werken met databases. Als het goed is, heb je de stof van de cursus [Database Development](https://edhub.novi.nl/study/learnpaths/332/course/460) op EdhHub gelezen en geoefend met de lesopdracht. Zo niet, dan raden we je aan om dat eerst te doen, voor je met de opdracht begint.  
+In de les hebben we het gehad over werken met databases. Als het goed is, heb je de stof van de cursus Database Development op EdhHub gelezen en geoefend met de lesopdracht. Zo niet, dan raden we je aan om dat eerst te doen, voor je met de opdracht begint.  
 
 
 ## Opdrachtbeschrijving
