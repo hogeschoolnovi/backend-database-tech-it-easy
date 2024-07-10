@@ -5,7 +5,7 @@ In de les hebben we het gehad over werken met databases. Als het goed is, heb je
 ## Opdrachtbeschrijving
 We borduren voort op de vorige huiswerkopdracht, namelijk de [TechItEasy](https://github.com/hogeschoolnovi/hogeschoolnovi-backend-technisch-ontwerp-klassendiagram ) opdracht. We gaan het gemaakte klassendiagram omzetten naar een daadwerkelijke database voor de TechItEasy app. Je mag je eigen klassendiagram gebruiken of het klassendiagram uit de voorbeeld uitwerkingen.
 
-![Classdiagram](./assets/teachItEasyKlassendiagram.PNG)
+![Classdiagram](./assets/teachItEasyKlassendiagram.jpg)
 
 
 ## Randvoorwaarden
